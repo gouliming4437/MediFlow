@@ -6,7 +6,7 @@
   <h1>MediFlow</h1>
 
   <div>
-    <a href="https://discord.gg/zKYGFXXNq">
+    <a href="https://discord.gg/zKYGFXNq">
       <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square" alt="Discord" />
     </a>
   </div>
