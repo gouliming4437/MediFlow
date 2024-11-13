@@ -1,5 +1,3 @@
-https://github.com/gouliming4437/MediFlow/blob/master/logo.png
-
 <div align="center">
   <a href="hhttps://github.com/gouliming4437/MediFlow">
     <img width="160" height="160" src="https://github.com/gouliming4437/MediFlow/blob/master/logo.png">
