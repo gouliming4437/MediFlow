@@ -6,7 +6,11 @@ A curated list of open-source tools that help reduce doctors' administrative and
 
 ## Problems & Solutions
 
-### "I spend too much time writing reports and documentation"
+### Examples
+
+These examples are not exhaustive, but they are some of the most common problems that doctors face. The projects listed are not real, but they are examples of what you can submit. Please submit your own challenges and solutions!
+
+#### "I spend too much time writing reports and documentation"
 - **AutoMedReport** - Templates for medical documentation
   - What it does: Provides customizable templates for different types of medical reports, supports multiple languages
   - Link: [GitHub](...)
@@ -15,7 +19,7 @@ A curated list of open-source tools that help reduce doctors' administrative and
   - What it does: Converts speech to text with medical terminology support, works offline
   - Link: [GitHub](...)
 
-### "Literature review takes up too much of my research time"
+#### "Literature review takes up too much of my research time"
 - **ResearchAssist** - Literature search automation
   - What it does: Searches multiple databases, removes duplicates, organizes papers by relevance
   - Link: [GitHub](...)
@@ -24,7 +28,7 @@ A curated list of open-source tools that help reduce doctors' administrative and
   - What it does: Organizes papers, generates citations, extracts key findings
   - Link: [GitHub](...)
 
-### "Managing schedules and meetings is a nightmare"
+#### "Managing schedules and meetings is a nightmare"
 - **MedScheduler** - Calendar management for doctors
   - What it does: Manages clinical schedules, coordinates team meetings, handles on-call rotations
   - Link: [GitHub](...)
@@ -33,7 +37,7 @@ A curated list of open-source tools that help reduce doctors' administrative and
   - What it does: Creates fair on-call schedules, manages shift swaps, sends reminders
   - Link: [GitHub](...)
 
-### "Grant applications take forever to format"
+#### "Grant applications take forever to format"
 - **GrantFormat** - Research grant formatting helper
   - What it does: Formats documents according to common grant requirements, manages references
   - Link: [GitHub](...)
@@ -42,7 +46,7 @@ A curated list of open-source tools that help reduce doctors' administrative and
   - What it does: Helps create and format research budgets, includes common cost templates
   - Link: [GitHub](...)
 
-### "Managing research data is chaotic"
+#### "Managing research data is chaotic"
 - **DataTrack** - Research data organizer
   - What it does: Creates consistent file structures, manages versions, automates backups
   - Link: [GitHub](...)
@@ -51,12 +55,12 @@ A curated list of open-source tools that help reduce doctors' administrative and
   - What it does: Helps manage shared documents, tracks changes, coordinates team input
   - Link: [GitHub](...)
 
-### "Keeping up with latest research is overwhelming"
+#### "Keeping up with latest research is overwhelming"
 - **JournalWatch** - Research monitoring assistant
   - What it does: Monitors journals for relevant papers, sends customized alerts
   - Link: [GitHub](...)
 
-### "Conference and CME management is tedious"
+#### "Conference and CME management is tedious"
 - **ConferenceTrack** - Professional development organizer
   - What it does: Tracks CME credits, manages conference schedules, organizes presentation materials
   - Link: [GitHub](...)
