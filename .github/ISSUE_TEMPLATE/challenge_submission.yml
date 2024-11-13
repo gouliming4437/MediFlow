@@ -1,0 +1,47 @@
+name: Challenge Submission
+description: Share a work challenge that needs a solution
+title: "[CHALLENGE] "
+labels: ["new-challenge"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your daily work challenges to help us identify where new tools are needed!
+
+  - type: textarea
+    id: challenge-description
+    attributes:
+      label: What is the challenge?
+      description: Describe the task/problem that takes up your time
+      placeholder: e.g., Spending too much time formatting research papers
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-process
+    attributes:
+      label: Current Process
+      description: How do you handle this now?
+      placeholder: Describe your current workflow or process
+    validations:
+      required: true
+
+  - type: textarea
+    id: ideal-solution
+    attributes:
+      label: Ideal Solution
+      description: What would make your life easier?
+      placeholder: Describe what a helpful solution would look like
+
+  - type: dropdown
+    id: time-impact
+    attributes:
+      label: Time Impact
+      description: How much time does this currently take?
+      options:
+        - Less than 1 hour per week
+        - 1-3 hours per week
+        - 4-8 hours per week
+        - More than 8 hours per week
+    validations:
+      required: true

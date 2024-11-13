@@ -1,0 +1,60 @@
+name: Tool Submission
+description: Submit a new tool to the collection
+title: "[TOOL] "
+labels: ["new-tool"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a tool! Let's help other doctors find useful solutions.
+  
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: What is the name of the tool?
+      placeholder: e.g., AutoMedReport
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-solved
+    attributes:
+      label: What problem does this tool solve?
+      description: Describe the challenge this tool addresses
+      placeholder: e.g., Speeds up writing medical reports by providing templates
+    validations:
+      required: true
+
+  - type: input
+    id: tool-link
+    attributes:
+      label: Link to Tool
+      description: GitHub repository or website link
+      placeholder: https://github.com/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: tool-description
+    attributes:
+      label: What does it do?
+      description: 2-3 sentences about main features
+      placeholder: Describe the main features and how it helps
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage-tips
+    attributes:
+      label: Usage Tips (Optional)
+      description: Any tips for using this tool effectively?
+      placeholder: Share your experience or tips
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is a free and open-source tool
+          required: true
