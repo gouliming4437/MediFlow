@@ -1,8 +1,21 @@
-# MediFlow
-*Find open-source tools that make doctors' daily work easier*
+https://github.com/gouliming4437/MediFlow/blob/master/logo.png
 
-## About
-A curated list of open-source tools that help reduce doctors' administrative and research workload. Tools are organized by the problems they solve, making it easy to find what you need.
+<div align="center">
+  <a href="hhttps://github.com/gouliming4437/MediFlow">
+    <img width="160" height="160" src="https://github.com/gouliming4437/MediFlow/blob/master/logo.png">
+  </a>
+
+  <h1>MediFlow</h1>
+
+  <div>
+    <a href="https://discord.gg/zKYGFXXNq">
+      <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square" alt="Discord" />
+    </a>
+  </div>
+
+  <b>Find open-source tools that make doctors' daily work easier</b><br/>
+  <i>A curated list of open-source tools that help reduce doctors' administrative and research workload</i><br/>
+</div>
 
 ## Problems & Solutions
 
