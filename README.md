@@ -17,6 +17,11 @@
 
 ## Problems & Solutions
 
+### "Managing schedules and meetings is a nightmare"
+- **OnCallFlow** - On-call schedule optimizer
+  - What it does: Creates fair on-call schedules, manages shift swaps, sends reminders
+  - Link: [GitHub](https://github.com/gouliming4437/OnCallFlow)
+
 ### Examples
 
 These examples are not exhaustive, but they are some of the most common problems that doctors face. The projects listed are not real, but they are examples of what you can submit. Please submit your own challenges and solutions!
